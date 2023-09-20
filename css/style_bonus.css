@@ -1,0 +1,121 @@
+body{
+    margin:0;
+}
+
+/* style header*/
+#site_header{
+    height: 100px;
+    background-color: #6aa2f0;
+    background-image: url('../img/pattern.png');
+    background-size: 390px;
+    background-position-x: 75px;
+}
+
+#site_logo{
+  width: 200px;
+  margin-top: 40px;
+  margin-left: 120px;
+}
+
+/* style main*/
+main{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+/*style section title */
+h1{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+#site_writer{
+    font-weight: 400;
+    color: gray;
+}
+
+#name_writer{
+    color: #6aa2f0;
+    font-weight: 400;
+}
+
+#date{
+    font-size: 12px;
+    font-weight: 100;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+/* style section photos */
+#descrition_photos{
+    font-size: 12px;
+}
+
+/* style section description */
+.description{
+    margin-top: 20px;
+}
+
+.evidenziatore{
+    background:#FFFF00;
+}
+
+/* style section unorder list */
+
+#site_undorder{
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+ul{
+    padding-left: 18px;
+}
+
+/* style section table */
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+.header_table{
+    color: white;
+    background-color: #2cafff;
+    width: 33%;
+    font-weight: bold;
+}
+
+.body_table_blu{
+    background-color: #aadee5;
+}
+
+/* style footer */
+
+footer{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+#intro_footer{
+    color: gray;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+#photo1_footer{
+    background-image: url('../img/monitor.jpg');
+    color: white;
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#photo2_footer{
+    background-image: url('../img/graph.jpg');
+    color: white;
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    font-size: 20px;
+}
