@@ -16,3 +16,30 @@ body{
   margin-top: 40px;
   margin-left: 10px;
 }
+
+/* style main*/
+main{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h1{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+#site_writer{
+    font-weight: 400;
+    color: gray;
+}
+
+#name_writer{
+    color: #6aa2f0;
+    font-weight: 400;
+}
+
+#date{
+    font-size: 12px;
+    font-weight: 100;
+    color: gray;
+}
