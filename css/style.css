@@ -4,14 +4,15 @@ body{
 
 /* style header*/
 #site_header{
-    height: 175px;
+    height: 100px;
     background-color: #6aa2f0;
     background-image: url('../img/pattern.png');
-    background-position-x: 130px; 
+    background-size: 390px;
+    background-position-x: 75px;
 }
 
 #site_logo{
-  width: 350px;
-  margin-top: 70px;
+  width: 200px;
+  margin-top: 40px;
   margin-left: 10px;
 }
