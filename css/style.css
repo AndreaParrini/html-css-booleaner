@@ -71,3 +71,22 @@ ul{
     padding-left: 18px;
 }
 
+/* style section table */
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+.header_table{
+    color: white;
+    background-color: #2cafff;
+    width: 33%;
+}
+
+h4{
+    margin: 0;
+}
+
+.body_table_blu{
+    background-color: #aadee5;
+}
