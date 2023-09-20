@@ -90,3 +90,35 @@ h4{
 .body_table_blu{
     background-color: #aadee5;
 }
+
+/* style footer */
+
+footer{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#intro_footer{
+    color: gray;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+#photo1_footer{
+    background-image: url('../img/monitor.jpg');
+    color: white;
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#photo2_footer{
+    background-image: url('../img/graph.jpg');
+    color: white;
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    font-size: 20px;
+}
